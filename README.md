@@ -11,18 +11,12 @@ This project is a Streamlit application that allows users to upload images of dr
 
 ## Installation
 
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/yourusername/pythonproject.git
-    cd pythonproject
-    ```
-
-2. **Install dependencies**:
+1**Install dependencies**:
     ```sh
     poetry install
     ```
 
-3. **Set up environment variables**:
+2**Set up environment variables**:
     Create a `.env` file in the project root and add your Fireworks API key:
     ```env
     FIREWORKS_API_KEY=your_fireworks_api_key
